@@ -1,0 +1,11 @@
+{
+  "name": "Bugbank",
+  "version": "1.0.0",
+  "description": "Automação do BugBank PortFólio",
+  "main": "index.js",
+  "author": "Samuel Santos <samuca.asap@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "^15.5.0"
+  }
+}
